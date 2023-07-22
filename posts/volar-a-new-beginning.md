@@ -3,7 +3,7 @@ title: "Volar: a New Beginning"
 date: 2023-02-08
 author: Johnson Chu
 avatar: https://avatars.githubusercontent.com/u/16279759?v=4
-twitter: '@johnsoncodehk'
+twitter: "@johnsoncodehk"
 ---
 
 Most users of Volar know it as the official Vue.js VSCode extension. It started as a personal project when the official recommendation was still Vetur, and over time got adopted as the new official extension due to improved architecture and performance.

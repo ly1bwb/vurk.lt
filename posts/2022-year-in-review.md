@@ -1,9 +1,9 @@
 ---
-title: '2022 Year In Review'
+title: "2022 Year In Review"
 date: 2023-01-01
 author: Evan You
 gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+twitter: "@youyuxi"
 ---
 
 Happy new year, Vue community! With 2023 upon us, we would like to take this opportunity to recap what happened in 2022, and discuss what to expect in 2023.

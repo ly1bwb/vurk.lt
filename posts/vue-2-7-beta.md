@@ -3,7 +3,7 @@ title: Vue 2.7 is Now in Beta
 date: 2022-06-20
 author: Evan You
 gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+twitter: "@youyuxi"
 ---
 
 We are happy to announce that Vue 2.7 is now in beta.
@@ -32,9 +32,9 @@ In addition, the following APIs are also supported:
 - In ESM builds, these APIs are provided as named exports (and named exports only):
 
   ```js
-  import Vue, { ref } from 'vue'
+  import Vue, { ref } from "vue";
 
-  Vue.ref // undefined, use named export instead
+  Vue.ref; // undefined, use named export instead
   ```
 
 - In UMD and CJS builds, these APIs are exposed as properties on the global `Vue` object.
@@ -51,7 +51,7 @@ The Composition API is backported using Vue 2's getter/setter-based reactivity s
 
   ```js
   // true in 2.7, false in 3.x
-  reactive(foo) === foo
+  reactive(foo) === foo;
   ```
 
 - `readonly()` **does** create a separate object, but it won't track newly added properties and does not work on arrays.
@@ -91,9 +91,9 @@ In addition, the following features are explicitly **NOT** ported:
 
      ```json
      {
-       "overrides": {
-         "vue-loader": "^15.10.0-beta.6"
-       }
+     	"overrides": {
+     		"vue-loader": "^15.10.0-beta.6"
+     	}
      }
      ```
 
@@ -101,9 +101,9 @@ In addition, the following features are explicitly **NOT** ported:
 
      ```json
      {
-       "overrides": {
-         "@vue/vue-loader-v15": "npm:vue-loader@^15.10.0-beta.6"
-       }
+     	"overrides": {
+     		"@vue/vue-loader-v15": "npm:vue-loader@^15.10.0-beta.6"
+     	}
      }
      ```
 
@@ -113,9 +113,9 @@ In addition, the following features are explicitly **NOT** ported:
 
      ```json
      {
-       "resolutions": {
-         "vue-loader": "^15.10.0-beta.6"
-       }
+     	"resolutions": {
+     		"vue-loader": "^15.10.0-beta.6"
+     	}
      }
      ```
 
@@ -123,9 +123,9 @@ In addition, the following features are explicitly **NOT** ported:
 
      ```json
      {
-       "resolutions": {
-         "@vue/vue-loader-v15": "npm:vue-loader@^15.10.0-beta.6"
-       }
+     	"resolutions": {
+     		"@vue/vue-loader-v15": "npm:vue-loader@^15.10.0-beta.6"
+     	}
      }
      ```
 
@@ -135,11 +135,11 @@ In addition, the following features are explicitly **NOT** ported:
 
      ```json
      {
-       "pnpm": {
-         "overrides": {
-           "vue-loader": "^15.10.0-beta.6"
-         }
-       }
+     	"pnpm": {
+     		"overrides": {
+     			"vue-loader": "^15.10.0-beta.6"
+     		}
+     	}
      }
      ```
 
@@ -147,11 +147,11 @@ In addition, the following features are explicitly **NOT** ported:
 
      ```json
      {
-       "pnpm": {
-         "overrides": {
-           "@vue/vue-loader-v15": "npm:vue-loader@^15.10.0-beta.6"
-         }
-       }
+     	"pnpm": {
+     		"overrides": {
+     			"@vue/vue-loader-v15": "npm:vue-loader@^15.10.0-beta.6"
+     		}
+     	}
      }
      ```
 
@@ -171,10 +171,10 @@ Note that the new plugin does not handle Vue-specific JSX / TSX transform, which
 
 ```json
 {
-  // ...
-  "vueCompilerOptions": {
-    "target": 2.7
-  }
+	// ...
+	"vueCompilerOptions": {
+		"target": 2.7
+	}
 }
 ```
 

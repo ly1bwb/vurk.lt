@@ -3,7 +3,7 @@ title: Announcing Vue 3.3
 date: 2023-05-11
 author: Evan You
 gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+twitter: "@youyuxi"
 ---
 
 Today we're excited to announce the release of Vue 3.3 "Rurouni Kenshin"!
@@ -36,10 +36,10 @@ This limitation is now resolved in 3.3. The compiler can now resolve imported ty
 
 ```vue
 <script setup lang="ts">
-import type { Props } from './foo'
+import type { Props } from "./foo";
 
 // imported + intersection type
-defineProps<Props & { extraProp?: string }>()
+defineProps<Props & { extraProp?: string }>();
 </script>
 ```
 
@@ -54,9 +54,9 @@ Components using `<script setup>` can now accept generic type parameters via the
 ```vue
 <script setup lang="ts" generic="T">
 defineProps<{
-  items: T[]
-  selected: T
-}>()
+	items: T[];
+	selected: T;
+}>();
 </script>
 ```
 
@@ -64,11 +64,11 @@ The value of `generic` works exactly the same as the parameter list between `<..
 
 ```vue
 <script setup lang="ts" generic="T extends string | number, U extends Item">
-import type { Item } from './types'
+import type { Item } from "./types";
 defineProps<{
-  id: T
-  list: U[]
-}>()
+	id: T;
+	list: U[];
+}>();
 </script>
 ```
 
@@ -84,9 +84,9 @@ Previously, the type parameter for `defineEmits` only supports the call signatur
 ```ts
 // BEFORE
 const emit = defineEmits<{
-  (e: 'foo', id: number): void
-  (e: 'bar', name: string, ...rest: any[]): void
-}>()
+	(e: "foo", id: number): void;
+	(e: "bar", name: string, ...rest: any[]): void;
+}>();
 ```
 
 The type matches the return type for `emit`, but is a bit verbose and awkward to write. 3.3 introduces a more ergonomic way of declaring emits with types:
@@ -94,9 +94,9 @@ The type matches the return type for `emit`, but is a bit verbose and awkward to
 ```ts
 // AFTER
 const emit = defineEmits<{
-  foo: [id: number]
-  bar: [name: string, ...rest: any[]]
-}>()
+	foo: [id: number];
+	bar: [name: string, ...rest: any[]];
+}>();
 ```
 
 In the type literal, the key is the event name and the value is an array type specifying the additional arguments. Although not required, you can use the [labeled tuple elements](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html#labeled-tuple-elements) for explicitness, like in the example above.
@@ -110,9 +110,9 @@ The new `defineSlots` macro can be used to declare expected slots and their resp
 ```vue
 <script setup lang="ts">
 defineSlots<{
-  default?: (props: { msg: string }) => any
-  item?: (props: { id: number }) => any
-}>()
+	default?: (props: { msg: string }) => any;
+	item?: (props: { id: number }) => any;
+}>();
 </script>
 ```
 
@@ -137,15 +137,15 @@ The feature allows destructured props to retain reactivity, and provides a more 
 
 ```vue
 <script setup>
-import { watchEffect } from 'vue'
+import { watchEffect } from "vue";
 
-const { msg = 'hello' } = defineProps(['msg'])
+const { msg = "hello" } = defineProps(["msg"]);
 
 watchEffect(() => {
-  // accessing `msg` in watchers and computed getters
-  // tracks it as a dependency, just like accessing `props.msg`
-  console.log(`msg is: ${msg}`)
-})
+	// accessing `msg` in watchers and computed getters
+	// tracks it as a dependency, just like accessing `props.msg`
+	console.log(`msg is: ${msg}`);
+});
 </script>
 
 <template>{{ msg }}</template>
@@ -162,17 +162,17 @@ Previously, for a component to support two-way binding with `v-model`, it needs 
 ```vue
 <!-- BEFORE -->
 <script setup>
-const props = defineProps(['modelValue'])
-const emit = defineEmits(['update:modelValue'])
-console.log(props.modelValue)
+const props = defineProps(["modelValue"]);
+const emit = defineEmits(["update:modelValue"]);
+console.log(props.modelValue);
 
 function onInput(e) {
-  emit('update:modelValue', e.target.value)
+	emit("update:modelValue", e.target.value);
 }
 </script>
 
 <template>
-  <input :value="modelValue" @input="onInput" />
+	<input :value="modelValue" @input="onInput" />
 </template>
 ```
 
@@ -181,12 +181,12 @@ function onInput(e) {
 ```vue
 <!-- AFTER -->
 <script setup>
-const modelValue = defineModel()
-console.log(modelValue.value)
+const modelValue = defineModel();
+console.log(modelValue.value);
 </script>
 
 <template>
-  <input v-model="modelValue" />
+	<input v-model="modelValue" />
 </template>
 ```
 
@@ -202,7 +202,7 @@ The new `defineOptions` macro allows declaring component options directly in `<s
 
 ```vue
 <script setup>
-defineOptions({ inheritAttrs: false })
+defineOptions({ inheritAttrs: false });
 </script>
 ```
 
@@ -212,11 +212,11 @@ defineOptions({ inheritAttrs: false })
 
 ```js
 // equivalent to ref(1)
-toRef(1)
+toRef(1);
 // creates a readonly ref that calls the getter on .value access
-toRef(() => props.foo)
+toRef(() => props.foo);
 // returns existing refs as-is
-toRef(existingRef)
+toRef(existingRef);
 ```
 
 Calling `toRef` with a getter is similar to `computed`, but can be more efficient when the getter is just performing property access with no expensive computations.
@@ -224,20 +224,20 @@ Calling `toRef` with a getter is similar to `computed`, but can be more efficien
 The new `toValue` utility method provides the opposite, normalizing values / getters / refs into values:
 
 ```js
-toValue(1) //       --> 1
-toValue(ref(1)) //  --> 1
-toValue(() => 1) // --> 1
+toValue(1); //       --> 1
+toValue(ref(1)); //  --> 1
+toValue(() => 1); // --> 1
 ```
 
 `toValue` can be used in composables in place of `unref` so that your composable can accept getters as reactive data sources:
 
 ```js
 // before: allocating unnecessary intermediate refs
-useFeature(computed(() => props.foo))
-useFeature(toRef(props, 'foo'))
+useFeature(computed(() => props.foo));
+useFeature(toRef(props, "foo"));
 
 // after: more efficient and succinct
-useFeature(() => props.foo)
+useFeature(() => props.foo);
 ```
 
 The relationship between `toRef` and `toValue` is similar to that between `ref` and `unref`, with the main difference being the special handling of getter functions.

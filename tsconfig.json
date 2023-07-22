@@ -1,9 +1,8 @@
 {
-  "compilerOptions": {
-    "module": "NodeNext",
-    "allowJs": true,
-    "strict": true,
-    "jsx": "preserve"
-  },
-  "include": ["./.vitepress/**/*"]
+	"extends": "@vue/tsconfig/tsconfig.dom.json",
+	"include": [".vitepress/**/*"],
+	"compilerOptions": {
+		"composite": true,
+		"baseUrl": "."
+	}
 }

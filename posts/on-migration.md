@@ -3,7 +3,7 @@ title: On Escape's Vue 2 to Svelte Migration
 date: 2022-12-05
 author: Evan You
 gravatar: eca93da2c67aadafe35d477aa8f454b8
-twitter: '@youyuxi'
+twitter: "@youyuxi"
 ---
 
 Recently, folks at Escape shared a [blog post](https://escape.tech/blog/from-vue2-to-svelte/) talking about their migration from Vue 2 to Svelte, and compared Vue 3 with Svelte. We found that the article contained a number of inaccuracies. In this post, we will share some thoughts from our perspective and hope to clarify the potential misconceptions the post could give rise to.
@@ -72,15 +72,15 @@ With that said, we have been experimenting with a feature called [Reactivity Tra
 
 ```vue
 <script setup>
-let count = $ref(0)
+let count = $ref(0);
 
 function increment() {
-  count++
+	count++;
 }
 </script>
 
 <template>
-  <button @click="increment">{{ count }}</button>
+	<button @click="increment">{{ count }}</button>
 </template>
 ```
 
