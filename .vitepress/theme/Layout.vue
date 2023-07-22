@@ -5,7 +5,6 @@ import Article from "./Article.vue";
 import NotFound from "./NotFound.vue";
 
 const { page, frontmatter } = useData();
-console.log(frontmatter);
 </script>
 
 <template>
@@ -18,16 +17,10 @@ console.log(frontmatter);
 					aria-label="Vilniaus universiteto radijo klubas"
 				>
 					<img
-						class="inline-block mr-2"
-						style="width: 36px; height: 31px"
-						alt="logo"
+						class="inline-block mr-2 w-10"
+						alt="Rombo formos logotipas"
 						src="/logo.svg"
 					/>
-					<span
-						v-if="!frontmatter.index"
-						class="hidden md:inline dark:text-white"
-						>Vilniaus universiteto radijo klubas</span
-					>
 				</a>
 				<div class="text-sm text-gray-500 dark:text-white leading-5">
 					<a
@@ -35,8 +28,7 @@ console.log(frontmatter);
 						href="https://github.com/vuejs/blog"
 						target="_blank"
 						rel="noopener"
-						><span class="hidden sm:inline">GitHub </span>Source</a
-					>
+					></a>
 					<span class="mr-2 ml-2">·</span>
 					<a
 						class="hover:text-gray-700 dark:hover:text-gray-200"
@@ -55,9 +47,10 @@ console.log(frontmatter);
 			</nav>
 		</div>
 		<main class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
-			<Home v-if="frontmatter.index" />
+			<!-- <Home v-if="frontmatter.index" />
 			<NotFound v-else-if="page.isNotFound" />
-			<Article v-else />
+			<Article v-else /> -->
+			<Content />
 		</main>
 	</div>
 </template>
