@@ -16,7 +16,7 @@ Before we dive into the details, we would like to emphasize that we respect deve
 
 The original post included a comparison chart that contains a number of issues that deserves clarification:
 
-![comparison-chart](/compare.png)
+<!-- ![comparison-chart](/compare.png) -->
 
 ### Typing
 
