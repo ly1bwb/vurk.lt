@@ -8,49 +8,28 @@ const { page, frontmatter } = useData();
 </script>
 
 <template>
-	<div class="antialiased dark:bg-slate-900">
-		<div class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
-			<nav class="flex justify-between items-center py-10 font-bold">
-				<a
-					class="text-xl"
-					href="/"
-					aria-label="Vilniaus universiteto radijo klubas"
-				>
-					<img
-						class="inline-block mr-2 w-10"
-						alt="Rombo formos logotipas"
-						src="/logo.svg"
-					/>
-				</a>
-				<div class="text-sm text-gray-500 dark:text-white leading-5">
-					<a
-						class="hover:text-gray-700 dark:hover:text-gray-200"
-						href="https://github.com/vuejs/blog"
-						target="_blank"
-						rel="noopener"
-					></a>
-					<span class="mr-2 ml-2">·</span>
-					<a
-						class="hover:text-gray-700 dark:hover:text-gray-200"
-						href="/feed.rss"
-						>RSS<span class="hidden sm:inline"> Feed</span></a
-					>
-					<span class="mr-2 ml-2">·</span>
-					<a
-						class="hover:text-gray-700 dark:hover:text-gray-200"
-						href="https://vuejs.org"
-						target="_blank"
-						rel="noopener"
-						>Vuejs.org →</a
-					>
-				</div>
-			</nav>
-		</div>
-		<main class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
-			<!-- <Home v-if="frontmatter.index" />
-			<NotFound v-else-if="page.isNotFound" />
-			<Article v-else /> -->
-			<Content />
-		</main>
+	<div
+		class="sticky top-0 z-10 w-full backdrop-blur py-4 border-b border-slate-900/10 bg-white supports-backdrop-blur:bg-white/95 dark:border-slate-300/10 dark:bg-slate-900/75"
+	>
+		<nav
+			class="flex justify-between items-center max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0"
+		>
+			<a href="/" class="mr-4">
+				<img
+					class="w-10"
+					src="/logo.svg"
+					alt="Vilniaus universiteto radijo klubo logotipas, rombo formos, melsvos spalvos. Viršuje antenos simbolis, per vidurį kubo iliustracija, apačioje įžeminimo simbolis."
+				/>
+			</a>
+			<div class="flex gap-4 font-semibold text-slate-700 dark:text-slate-200">
+				<a href="/">Naujienos</a>
+				<a href="/nariai">Nariai</a>
+				<a href="/kontaktai">Kontaktai</a>
+			</div>
+		</nav>
 	</div>
+	<main class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+		<NotFound v-if="page.isNotFound" />
+		<Content v-else />
+	</main>
 </template>
