@@ -25,12 +25,15 @@ const { page, frontmatter } = useData();
 			<div class="flex gap-4 font-semibold text-slate-700 dark:text-slate-200">
 				<a href="/">Naujienos</a>
 				<a href="/nariai">Nariai</a>
+				<a href="/stotis">Stotis</a>
 				<a href="/kontaktai">Kontaktai</a>
 				<ThemeSwitch />
 			</div>
 		</nav>
 	</div>
-	<main class="max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0">
+	<main
+		class="mx-auto my-8 lg:my-16 px-4 sm:px-6 xl:px-0 prose prose-slate dark:prose-invert lg:prose-xl prose-img:rounded-xl"
+	>
 		<NotFound v-if="page.isNotFound" />
 		<Content v-else />
 	</main>
