@@ -2,33 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-	--c-brand: #3eaf7c;
-	--c-brand-light: #4abf8a;
-}
-
-nav img {
-	vertical-align: middle;
-}
-
-p img {
-	margin: 0px auto;
-}
-
-.prose hr {
-	border-top: 1px solid #e5e7eb;
-}
-
-.link {
-	color: var(--c-brand);
-}
-
-.link:hover {
-	color: var(--c-brand-light);
-}
-
-.header-anchor {
-	display: none;
+body {
+	@apply antialiased text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-900;
 }
 
 /**
