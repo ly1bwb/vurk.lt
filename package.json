@@ -19,5 +19,9 @@
 		"typescript": "^5.1.6",
 		"vitepress": "^1.0.0-beta.6",
 		"vue": "^3.3.4"
+	},
+	"dependencies": {
+		"@vueuse/core": "^10.2.1",
+		"lucide-vue-next": "^0.263.0"
 	}
 }

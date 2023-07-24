@@ -3,6 +3,7 @@ import { useData } from "vitepress";
 import Home from "./Home.vue";
 import Article from "./Article.vue";
 import NotFound from "./NotFound.vue";
+import ThemeSwitch from "./ThemeSwitch.vue";
 
 const { page, frontmatter } = useData();
 </script>
@@ -25,6 +26,7 @@ const { page, frontmatter } = useData();
 				<a href="/">Naujienos</a>
 				<a href="/nariai">Nariai</a>
 				<a href="/kontaktai">Kontaktai</a>
+				<ThemeSwitch />
 			</div>
 		</nav>
 	</div>
