@@ -11,7 +11,10 @@ const props = defineProps<{
 
 <template>
 	<Popover class="relative">
-		<PopoverButton class="p-2 text-slate-700 dark:text-slate-200">
+		<PopoverButton
+			title="Atidaryti meniu"
+			class="p-2 text-slate-700 dark:text-slate-200"
+		>
 			<MenuIcon />
 		</PopoverButton>
 
