@@ -4,45 +4,33 @@ import { data as posts } from "./posts.data.js";
 import { useData } from "vitepress";
 
 const { frontmatter } = useData();
+console.log(posts);
 </script>
 
 <template>
-	<div class="divide-y divide-gray-200 dark:divide-slate-200/5">
-		<div class="pt-6 pb-8 space-y-2 md:space-y-5">
-			<h1
-				class="text-3xl leading-9 font-extrabold text-gray-900 dark:text-white tracking-tight sm:text-4xl sm:leading-10 md:text-6xl md:leading-14"
-			>
-				{{ frontmatter.title }}
-			</h1>
-			<p class="text-lg leading-7 text-gray-500 dark:text-white">
-				{{ frontmatter.subtext }}
-			</p>
-		</div>
-		<ul class="divide-y divide-gray-200 dark:divide-slate-200/5">
-			<li class="py-12" v-for="{ title, url, date, excerpt } of posts">
-				<article
-					class="space-y-2 xl:grid xl:grid-cols-4 xl:space-y-0 xl:items-baseline"
-				>
-					<Date :date="date" />
-					<div class="space-y-5 xl:col-span-3">
-						<div class="space-y-6">
-							<h2 class="text-2xl leading-8 font-bold tracking-tight">
-								<a class="text-gray-900 dark:text-white" :href="url">{{
-									title
-								}}</a>
-							</h2>
-							<div
-								v-if="excerpt"
-								class="prose dark:prose-invert max-w-none text-gray-500 dark:text-gray-300"
-								v-html="excerpt"
-							></div>
-						</div>
-						<div class="text-base leading-6 font-medium">
-							<a class="link" aria-label="read more" :href="url">Read more →</a>
-						</div>
-					</div>
-				</article>
-			</li>
-		</ul>
-	</div>
+	<ul
+		class="divide-y divide-gray-200 dark:divide-slate-200/5 list-none p-0 lg:p-0"
+	>
+		<li class="py-6" v-for="{ title, url, date, excerpt } of posts">
+			<article class="xl:grid xl:grid-cols-4 xl:items-baseline">
+				<Date :date="date" />
+				<div class="xl:col-span-3">
+					<h2 class="text-2xl leading-8 font-bold tracking-tight mt-4 lg:mt-4">
+						<a
+							class="text-slate-900 dark:text-white no-underline"
+							:href="url"
+							>{{ title }}</a
+						>
+					</h2>
+					<div v-if="excerpt" v-html="excerpt"></div>
+					<a
+						class="no-underline font-semibold mt-4 inline-block"
+						aria-label="skaityti daugiau"
+						:href="url"
+						>Skaityti daugiau →</a
+					>
+				</div>
+			</article>
+		</li>
+	</ul>
 </template>
