@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { useData } from "vitepress";
 import NotFound from "./NotFound.vue";
-import ThemeSwitch from "./ThemeSwitch.vue";
 import Navigation from "./Navigation.vue";
 import MobileNavigation from "./MobileNavigation.vue";
 
