@@ -2,7 +2,7 @@
 import { SunIcon, MoonIcon } from "lucide-vue-next";
 import { useDark, useToggle } from "@vueuse/core";
 
-const isDark = useDark();
+const isDark = useDark({ storageKey: "vitepress-theme-appearance" });
 const toggleDark = useToggle(isDark);
 </script>
 
