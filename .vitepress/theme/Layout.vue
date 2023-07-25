@@ -4,7 +4,7 @@ import NotFound from "./NotFound.vue";
 import Navigation from "./Navigation.vue";
 import MobileNavigation from "./MobileNavigation.vue";
 
-const { page, frontmatter } = useData();
+const { page } = useData();
 
 const navigationItems = {
 	"/": "Naujienos",
