@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { Sun, Moon } from "lucide-vue-next";
+import { SunIcon, MoonIcon } from "lucide-vue-next";
 import { useDark, useToggle } from "@vueuse/core";
 
 const isDark = useDark();
@@ -8,7 +8,8 @@ const toggleDark = useToggle(isDark);
 
 <template>
 	<button @click="toggleDark()" title="Pakeisti temą">
-		<Sun v-if="isDark" />
-		<Moon v-else />
+		<SunIcon v-if="isDark" />
+		<MoonIcon v-else />
+		<slot />
 	</button>
 </template>
