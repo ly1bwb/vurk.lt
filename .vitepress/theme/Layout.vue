@@ -23,7 +23,7 @@ const navigationItems = {
 		>
 			<a href="/" class="mr-4">
 				<img
-					class="w-10"
+					class="w-10 h-[78px]"
 					src="/logo.svg"
 					alt="Vilniaus universiteto radijo klubo logotipas, rombo formos, melsvos spalvos. Viršuje antenos simbolis, per vidurį kubo iliustracija, apačioje įžeminimo simbolis."
 				/>
