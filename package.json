@@ -21,6 +21,7 @@
 		"vue": "^3.3.4"
 	},
 	"dependencies": {
+		"@headlessui/vue": "^1.7.14",
 		"@vueuse/core": "^10.2.1",
 		"lucide-vue-next": "^0.263.0"
 	}
