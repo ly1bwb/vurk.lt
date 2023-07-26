@@ -6,6 +6,13 @@ body {
 	@apply antialiased text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-900;
 }
 
+@layer utilities {
+	.prose :where(iframe):not(:where([class~="not-prose"] *)),
+	.prose-xl :where(iframe):not(:where([class~="not-prose"] *)) {
+		@apply aspect-video w-full h-auto
+	}
+}
+
 /**
  * prism.js tomorrow night eighties for JavaScript, CoffeeScript, CSS and HTML.
  * Based on https://github.com/chriskempson/tomorrow-theme
