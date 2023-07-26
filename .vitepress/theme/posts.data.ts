@@ -26,13 +26,13 @@ const formatDate = (raw: string): Post["date"] => {
 	};
 };
 
-export default createContentLoader("pages/posts/*.md", {
+export default createContentLoader("posts/*.md", {
 	excerpt: true,
 	transform(raw): Post[] {
 		return raw
 			.map(({ url, frontmatter, excerpt }) => ({
 				title: frontmatter.title,
-				url: url.replace("/pages", ""),
+				url,
 				excerpt,
 				date: formatDate(frontmatter.date),
 			}))

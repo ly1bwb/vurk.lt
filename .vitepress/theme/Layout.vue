@@ -1,10 +1,11 @@
 <script setup lang="ts">
 import { useData } from "vitepress";
 import NotFound from "./NotFound.vue";
+import Article from "./Article.vue";
 import Navigation from "./Navigation.vue";
 import MobileNavigation from "./MobileNavigation.vue";
 
-const { page } = useData();
+const { page, frontmatter } = useData();
 
 const navigationItems = {
 	"/": "Naujienos",
@@ -33,9 +34,10 @@ const navigationItems = {
 		</nav>
 	</div>
 	<main
-		class="mx-auto my-8 lg:my-16 px-4 sm:px-6 xl:px-0 prose prose-slate dark:prose-invert lg:prose-xl prose-img:rounded-xl"
+		class="max-w-3xl xl:max-w-5xl mx-auto my-8 lg:my-16 px-4 sm:px-6 xl:px-0"
 	>
 		<NotFound v-if="page.isNotFound" />
+		<Article v-else-if="frontmatter.layout === 'post'" />
 		<Content v-else />
 	</main>
 </template>

@@ -38,7 +38,9 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1]);
 			<div
 				class="divide-y divide-gray-200 dark:divide-slate-200/5 xl:pb-0 xl:col-span-3 xl:row-span-2"
 			>
-				<Content class="prose dark:prose-invert max-w-none pt-10 pb-8" />
+				<Content
+					class="prose prose-slate dark:prose-invert lg:prose-xl prose-img:rounded-xl prose-video:rounded-xl prose-img:w-full max-w-none pt-10 pb-8"
+				/>
 			</div>
 
 			<footer
@@ -48,7 +50,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1]);
 					<h2
 						class="text-xs tracking-wide uppercase text-gray-500 dark:text-white"
 					>
-						Next Article
+						Sekantis įrašas
 					</h2>
 					<div class="link">
 						<a :href="nextPost.url">{{ nextPost.title }}</a>
@@ -58,14 +60,14 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1]);
 					<h2
 						class="text-xs tracking-wide uppercase text-gray-500 dark:text-white"
 					>
-						Previous Article
+						Ankstesnis įrašas
 					</h2>
 					<div class="link">
 						<a :href="prevPost.url">{{ prevPost.title }}</a>
 					</div>
 				</div>
 				<div class="pt-8">
-					<a class="link" href="/">← Back to the blog</a>
+					<a class="link" href="/">← Atgal</a>
 				</div>
 			</footer>
 		</div>
