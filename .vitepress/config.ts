@@ -6,6 +6,5 @@ export default defineConfig({
 	title: "VURK",
 	description: "Vilniaus universiteto radijo klubo tinklaraštis",
 	cleanUrls: true,
-	srcDir: "./pages",
 	buildEnd: genFeed,
 });
