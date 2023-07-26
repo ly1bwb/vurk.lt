@@ -1,3 +1,7 @@
+---
+layout: prose
+---
+
 # Nariai
 
 2023-03-26 VU RK VNS metu išrinktas klubo prezidentas **Domantas Petrauskas LY1JA** (narys nuo 2017 m.)

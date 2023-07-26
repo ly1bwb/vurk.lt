@@ -2,6 +2,7 @@
 import { useData } from "vitepress";
 import NotFound from "./NotFound.vue";
 import Article from "./Article.vue";
+import Prose from "./Prose.vue";
 import Navigation from "./Navigation.vue";
 import MobileNavigation from "./MobileNavigation.vue";
 
@@ -38,6 +39,7 @@ const navigationItems = {
 	>
 		<NotFound v-if="page.isNotFound" />
 		<Article v-else-if="frontmatter.layout === 'post'" />
+		<Prose v-else-if="frontmatter.layout === 'prose'" />
 		<Content v-else />
 	</main>
 </template>
