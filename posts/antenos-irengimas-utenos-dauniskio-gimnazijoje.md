@@ -9,7 +9,7 @@ layout: post
 
 Prieš keletą savaičių su mumis susisiekė Utenos Dauniškio gimnazijos fizikos mokytoja Loreta Tarvydienė LY4LT. Ji pasidalino, kad klasėje yra Yaesu transiveris, bet mokykla neturi tinkamos antenos.
 
-![Radijo aparato galinė pusė. Juoda, metalinė dėžutė, daug įvairių jungčių. Prie antenos kištuko prijungtas interneto kabelis.](/assets/utena/transiveris.jpg)
+![Radijo aparato galinė pusė. Juoda, metalinė dėžutė, daug įvairių jungčių. Prie antenos kištuko prijungtas interneto kabelis.](/utena/transiveris.jpg)
 
 Pasitarę su klubo nariais nusprendėme padėti įrengti anteną.
 
