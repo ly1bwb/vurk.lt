@@ -63,5 +63,83 @@ export default defineConfig({
 				content: "#ffffff",
 			},
 		],
+		// OG tags
+		[
+			"meta",
+			{
+				property: "og:url",
+				content: "https://vurk.lt",
+			},
+		],
+		[
+			"meta",
+			{
+				property: "og:type",
+				content: "website",
+			},
+		],
+		[
+			"meta",
+			{
+				property: "og:title",
+				content: "Vilniaus universiteto radijo klubas",
+			},
+		],
+		[
+			"meta",
+			{
+				property: "og:description",
+				content: "Vilniaus universiteto radijo klubo tinklaraštis",
+			},
+		],
+		[
+			"meta",
+			{
+				property: "og:image",
+				content: "https://vurk.lt/og.png",
+			},
+		],
+		[
+			"meta",
+			{
+				name: "twitter:card",
+				content: "summary_large_image",
+			},
+		],
+		[
+			"meta",
+			{
+				property: "twitter:domain",
+				content: "vurk.lt",
+			},
+		],
+		[
+			"meta",
+			{
+				property: "twitter:url",
+				content: "https://vurk.lt",
+			},
+		],
+		[
+			"meta",
+			{
+				name: "twitter:title",
+				content: "Vilniaus universiteto radijo klubas",
+			},
+		],
+		[
+			"meta",
+			{
+				name: "twitter:description",
+				content: "Vilniaus universiteto radijo klubo tinklaraštis",
+			},
+		],
+		[
+			"meta",
+			{
+				name: "twitter:image",
+				content: "https://vurk.lt/og.png",
+			},
+		],
 	],
 });
