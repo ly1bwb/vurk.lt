@@ -9,7 +9,7 @@ layout: post
 
 Kviečiame visus į kasmetinį Vilniaus Universiteto radijo klubo sąskrydį!
 
-![VU radijo klubo sąskrydis](/saskrydis-2023/photo_2023-08-16_12-10-57.jpg)
+![VU radijo klubo sąskrydžio dalyviai, 13 besišypsančių žmonių stovi prieš klubo stoties palapinę ir mojuoja](/saskrydis-2023/saskrydzio-dalyviai.jpg)
 
 ---
 
