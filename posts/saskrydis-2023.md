@@ -25,5 +25,5 @@ Kasmetinio VU radijo klubo sąskrydžio programa:
 - LoRa, Meshtastic laboratorija
 - Kempingo pramogos
 
-Kontaktai: Domantas Petrauskas LY1JA
+Kontaktai: Domantas Petrauskas LY1JA [ly1ja@vurk.lt](mailto:ly1ja@vurk.lt)
 
