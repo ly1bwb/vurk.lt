@@ -9,7 +9,7 @@ layout: post
 
 Šią vasarą atkreipėme dėmesį, kad klubo patalpose lubos priaugo šiek tiek "svorio".
 
-![Radijo klubo patalpos, įlinkusios lubos](lubos/pries.jpg)
+![Radijo klubo patalpos, įlinkusios lubos](/lubos/pries.jpg)
 
 ---
 
@@ -21,4 +21,4 @@ Nutarėme nelaukti kol lubos nukris mums ant galvų, tad Simonas LY2EN susisiek�
 
 Vos kelios valandos darbo ir klubas turi naujas lubas. Ačiū meistrams!
 
-![Klubo patalpos, naujos, baltos lubos](lubos/po.jpg)
+![Klubo patalpos, naujos, baltos lubos](/assets/lubos/po.jpeg)
