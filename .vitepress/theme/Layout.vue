@@ -11,7 +11,7 @@ const { page, frontmatter } = useData();
 const navigationItems = {
 	"/": "Naujienos",
 	"/nariai": "Nariai",
-	// "/stotis": "Stotis",
+	"/apie-kluba": "Apie klubą",
 	// "/kontaktai": "Kontaktai",
 };
 </script>
