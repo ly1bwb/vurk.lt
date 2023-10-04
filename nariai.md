@@ -42,3 +42,9 @@ Kartu su prezidentu, klubą sudaro 23 nariai.
 1. Martynas Staniulionis LY1MS (2018 m. – 2021 m.)
 1. Gedas Kučinskas LY5GK (2019 m – 2021 m.)
 1. Karolis Martinaitis LY2MK (2016 m. – 2020 m.)
+
+## Prašymas stoti į klubą
+
+Norinčius prisijungti į klubą kviečiame užpildyti prašymą ir atsiųsti į ly1bwb@gmail.com
+
+[Prašymo blankas](/Prasymas-stoti-VURK.doc)
