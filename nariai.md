@@ -10,10 +10,10 @@ layout: prose
 
 1. dr. Simonas Kareiva LY2EN (iždininkas, narys nuo 2011 m.)
 1. Linas Dragūnas LY5AT (revizorius, narys nuo 2015 m.)
-1. Haroldas Lapinskas LY5IM (narys nuo 2018 m.)
-1. Barbora Kačinskaitė LY1KB (narė nuo 2017 m.)
 1. Laurynas Mačiulis LY1LM (nuo 2014 m.)
 1. Laimonas Januška LY1WS (nuo 2014 m.)
+1. Barbora Kačinskaitė LY1KB (narė nuo 2017 m.)
+1. Haroldas Lapinskas LY5IM (narys nuo 2018 m.)
 1. Lukas Bartkus LY1LB (nuo 2018 m.)
 1. prof. Artūras Žukauskas LY5FOX (nuo 2019 m.)
 1. Lukas Kundelis LY1PG (nuo 2019 m.)
@@ -30,6 +30,7 @@ layout: prose
 1. Paulius Rimeikis LY3LB (nuo 2023 m.)
 1. Ernest Stepanov LY3PH (nuo 2023 m.)
 1. Loreta Tarvydienė LY4LT (nuo 2023 m.)
+1. Giedrius Graževičius LY7GG (nuo 2023 m.)
 
 Kartu su prezidentu, klubą sudaro 23 nariai.
 
@@ -45,6 +46,8 @@ Kartu su prezidentu, klubą sudaro 23 nariai.
 
 ## Prašymas stoti į klubą
 
-Norinčius prisijungti į klubą kviečiame užpildyti prašymą ir atsiųsti į ly1bwb@gmail.com
+Norinčius prisijungti į klubą kviečiame užpildyti prašymą ir atsiųsti į [ly1bwb@vurk.lt](mailto:ly1bwb@vurk.lt)
 
 [Prašymo blankas](/Prasymas-stoti-VURK.doc)
+
+Laiške prašome prisistatyti, pasidalinti kokia veikla domina, ir kodėl norite prisijungti prie VU radijo klubo.
