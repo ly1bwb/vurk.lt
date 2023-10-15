@@ -16,6 +16,6 @@ Didlaukio g. 59, LT-08302, Vilnius
 
 ## Kontaktai:
 
-El. p.: ly1bwb@gmail.com
+El. p.: ly1bwb@vurk.lt
 
 Tel.: +370 652 00168, +370 600 29810
