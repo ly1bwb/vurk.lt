@@ -31,6 +31,7 @@ layout: prose
 1. Ernest Stepanov LY3PH (nuo 2023 m.)
 1. Loreta Tarvydienė LY4LT (nuo 2023 m.)
 1. Giedrius Graževičius LY7GG (nuo 2023 m.)
+1. Juozas Valenčius (nuo 2023 m.)
 
 Kartu su prezidentu, klubą sudaro 23 nariai.
 
