@@ -33,7 +33,7 @@ layout: prose
 1. Giedrius Graževičius LY7GG (nuo 2023 m.)
 1. Juozas Valenčius (nuo 2023 m.)
 
-Kartu su prezidentu, klubą sudaro 23 nariai.
+Kartu su prezidentu, klubą sudaro 25 nariai.
 
 ## Neaktyvūs nariai
 
