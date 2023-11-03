@@ -2,11 +2,12 @@
 import { useData } from "vitepress";
 
 import md5 from "md5";
+import { computed } from "vue";
 
 const { frontmatter } = useData();
-const gravatarHash = frontmatter.value.gravatar
+const gravatarHash = computed(() => frontmatter.value.gravatar
 	? md5(frontmatter.value.gravatar.trim().toLowerCase())
-	: null;
+	: null);
 </script>
 
 <template>

@@ -2,7 +2,7 @@
 title: Kvietimas į sąskrydį
 date: 2023-08-17
 author: Simonas Kareiva LY2EN
-gravatar: ly2en@vurk.lt
+gravatar: simonas@5grupe.lt
 twitter: "@kareiva"
 layout: post
 ---
