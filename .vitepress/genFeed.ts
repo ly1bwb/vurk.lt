@@ -3,19 +3,19 @@ import { writeFileSync } from "fs";
 import { Feed } from "feed";
 import { createContentLoader, type SiteConfig } from "vitepress";
 
-const baseUrl = `https://blog.vuejs.org`;
+const baseUrl = `https://vurk.lt`;
 
 export async function genFeed(config: SiteConfig) {
 	const feed = new Feed({
-		title: "The Vue Point",
-		description: "The official blog for the Vue.js project",
+		title: "Vilniaus universiteto radijo klubas",
+		description: "Vilniaus universiteto radijo klubo tinklaraštis",
 		id: baseUrl,
 		link: baseUrl,
-		language: "en",
-		image: "https://vuejs.org/images/logo.png",
+		language: "lt",
+		image: "https://vurk.lt/logo.svg",
 		favicon: `${baseUrl}/favicon.ico`,
 		copyright:
-			"Copyright (c) 2021-present, Yuxi (Evan) You and blog contributors",
+			"Copyright (c) 2023-present, Vilniaus universiteto radijo klubas",
 	});
 
 	const posts = await createContentLoader("posts/*.md", {
