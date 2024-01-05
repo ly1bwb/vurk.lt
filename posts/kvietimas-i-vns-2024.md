@@ -16,3 +16,5 @@ Kviečiame į asociacijos "VU radijo klubas" kasmetinį Visuotinį narių susiri
 Su geriausiais linkėjimais,
 
 Domantas LY1JA, VU radijo klubo prezidentas
+
+---
