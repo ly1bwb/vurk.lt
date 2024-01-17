@@ -32,8 +32,9 @@ layout: prose
 1. Loreta Tarvydienė LY4LT (nuo 2023 m.)
 1. Giedrius Graževičius LY7GG (nuo 2023 m.)
 1. Juozas Valenčius LY4NM (nuo 2023 m.)
+1. Ernestas Kovalenko LY8LK (nuo 2024 m.)
 
-Kartu su prezidentu, klubą sudaro 25 nariai.
+Kartu su prezidentu, klubą sudaro 26 nariai.
 
 ## Neaktyvūs nariai
 
