@@ -10,7 +10,7 @@ layout: prose
 
 1. dr. Simonas Kareiva LY2EN (iždininkas, narys nuo 2011 m.)
 1. Linas Dragūnas LY5AT (revizorius, narys nuo 2015 m.)
-1. Laurynas Mačiulis LY1LM (nuo 2014 m.)
+1. Laurynas Mačiulis LY1LM (garbės narys nuo 2014 m.)
 1. Laimonas Januška LY1WS (nuo 2014 m.)
 1. Barbora Kačinskaitė LY1KB (narė nuo 2017 m.)
 1. Haroldas Lapinskas LY5IM (narys nuo 2018 m.)
@@ -36,14 +36,14 @@ layout: prose
 
 Kartu su prezidentu, klubą sudaro 26 nariai.
 
-## Neaktyvūs nariai
+## Buvę nariai
 
 1. Linas Berželionis LY3QL (2011 m. – 2017 m.)
 1. Martynas Baltrūnas LY1BGP (2011 m. – 2015 m.)
 1. Arvydas Dauderys LY1LI (2015 m. – 2016 m.)
 1. Marijus Bernotas LY1SM (2018 m.)
 1. Martynas Staniulionis LY1MS (2018 m. – 2021 m.)
-1. Gedas Kučinskas LY5GK (2019 m – 2021 m.)
+1. Gedas Kučinskas LY5GK (2019 m. – 2021 m.)
 1. Karolis Martinaitis LY2MK (2016 m. – 2020 m.)
 
 ## Prašymas stoti į klubą
