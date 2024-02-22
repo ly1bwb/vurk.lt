@@ -23,6 +23,8 @@ Vilniaus universiteto radijo klubo nariai kviečia skirti 1.2% GPM paramą klubu
 6. Laukelyje `Mokesčio dalies dydis (procentais)` įveskite `1.2` ![](/assets/parama-2023/zingsnis-5.png)
 7. Patvirtinkite ir pateikite prašmą
 
+Instrukcijas taip pat galite rasti [VMI puslapyje](https://www.vmi.lt/evmi/kaip-galiu-paskirti-pajamu-mokescio-dali-pasirinktam-paramos-gavejui-ir/ar-politinei-organizacijai).
+
 Dėkojame ir kviečiame aplankyti klubo stotį! Ekskursijoje supažindinsime su klubo įranga, antenomis, bandysime užmegzti ryšį su kitais radijo mėgėjais.
 
 Registracija – [ly1bwb@vurk.lt](mailto:ly1bwb@vurk.lt)
