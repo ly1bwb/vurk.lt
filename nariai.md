@@ -4,15 +4,16 @@ layout: prose
 
 # Nariai
 
-2023-03-26 VU RK VNS metu išrinktas klubo prezidentas **Domantas Petrauskas LY1JA** (narys nuo 2017 m.)
+2023-03-26 VU RK VNS metu išrinktas klubo prezidentas – **Domantas Petrauskas LY1JA**
 
 ## Narių sąrašas
 
 1. dr. Simonas Kareiva LY2EN (iždininkas, narys nuo 2011 m.)
-1. Linas Dragūnas LY5AT (revizorius, narys nuo 2015 m.)
 1. Laurynas Mačiulis LY1LM (garbės narys nuo 2014 m.)
 1. Laimonas Januška LY1WS (nuo 2014 m.)
+1. Linas Dragūnas LY5AT (revizorius, narys nuo 2015 m.)
 1. Barbora Kačinskaitė LY1KB (narė nuo 2017 m.)
+1. Domantas Petrauskas LY1JA (prezidentas, narys nuo 2017 m.)
 1. Haroldas Lapinskas LY5IM (narys nuo 2018 m.)
 1. Lukas Bartkus LY1LB (nuo 2018 m.)
 1. prof. Artūras Žukauskas LY5FOX (nuo 2019 m.)
@@ -33,8 +34,6 @@ layout: prose
 1. Giedrius Graževičius LY7GG (nuo 2023 m.)
 1. Juozas Valenčius LY4NM (nuo 2023 m.)
 1. Ernestas Kovalenko LY8LK (nuo 2024 m.)
-
-Kartu su prezidentu, klubą sudaro 26 nariai.
 
 ## Buvę nariai
 
