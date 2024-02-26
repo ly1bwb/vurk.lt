@@ -15,7 +15,7 @@ Audrius Blaževičius LY4AU, Audrius Baranauskas LY4ET, Rolandas Naujikas LY0NAS
 Simonas Kareiva LY2EN, Lukas Bartkus LY7J, Ernest Stepanov LY3PH, Juozas 
 Valenčius LY4NM ir Haroldas Lapinskas LY5IM
 
-![Domantas LY1JA, VU RK VNS](/assets/vns-2024/vns1.jpg)
+![Domantas LY1JA, VU RK VNS](/vns-2024/vns1.jpg)
 
 Susirinkimo metu patvirtintos veiklos ataskaitos už 2023 metus ir
 patvirtintas naujas asociacijos biudžetas 2024 metams.
