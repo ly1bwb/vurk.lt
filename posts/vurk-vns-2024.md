@@ -8,19 +8,19 @@ layout: post
 ---
 
 2024 m, vasario 25 d., įvyko Vilniaus universiteto radijo klubo 
-visuotinis narių susirinkimas. Susirinkime dalyvavo 11 klubo narių: 
+visuotinis narių susirinkimas. Susirinkime dalyvavo 11 klubo narių. 
 
-Domantas Petrauskas LY1JA, Linas Dragūnas LY5AT, Giedrius Graževičius LY7GG, 
+![Domantas LY1JA, VU RK VNS](/vns-2024/vns1.jpg)
+
+---
+
+**Dalyviai:** Domantas Petrauskas LY1JA, Linas Dragūnas LY5AT, Giedrius Graževičius LY7GG, 
 Audrius Blaževičius LY4AU, Audrius Baranauskas LY4ET, Rolandas Naujikas LY0NAS,
 Simonas Kareiva LY2EN, Lukas Bartkus LY7J, Ernest Stepanov LY3PH, Juozas 
 Valenčius LY4NM ir Haroldas Lapinskas LY5IM
 
-![Domantas LY1JA, VU RK VNS](/vns-2024/vns1.jpg)
-
 Susirinkimo metu patvirtintos veiklos ataskaitos už 2023 metus ir
 patvirtintas naujas asociacijos biudžetas 2024 metams.
-
----
 
 ![Simonas Kareiva LY2EN, VU RK VNS](/assets/vns-2024/vns2.jpg)
 
