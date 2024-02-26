@@ -10,7 +10,7 @@ npm install
 npm run dev
 ```
 
-Puslapis bus pasiekiamas adresu http://localhost:5173
+Puslapis bus pasiekiamas adresu http:&sol;&sol;localhost:5173
 
 ### Tinklaraštis
 
