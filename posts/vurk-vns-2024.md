@@ -6,15 +6,10 @@ gravatar: ly1ja@vurk.lt
 twitter: "@domnantas"
 layout: post
 head:
-  - - meta
-    - property: og:title
-      content: VU RK 2024 m. visuotinis narių susirinkimas
-  - - meta
-    - property: og:description
-      content: 2024 m. vasario 25 d. įvyko Vilniaus universiteto radijo klubo visuotinis narių susirinkimas. Susirinkime dalyvavo 11 klubo narių.
-  - - meta
-    - property: og:image
-      content: https://vurk.lt/vns-2024/vns1.jpg
+  - ["meta", { property: "og:title", content: "VU RK 2024 m. visuotinis narių susirinkimas" }]
+  - ["meta", { property: "og:description", content: "2024 m. vasario 25 d. įvyko Vilniaus universiteto radijo klubo visuotinis narių susirinkimas. Susirinkime dalyvavo 11 klubo narių." }]
+  - ["meta", { property: "og:image", content: "https://vurk.lt/vns-2024/vns1.jpg" }]
+  - ["meta", { property: "og:type", content: "article" }]
 ---
 
 2024 m. vasario 25 d. įvyko Vilniaus universiteto radijo klubo 
