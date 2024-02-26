@@ -56,5 +56,3 @@ Per artimiausias savaites kartu su posėdžio sekretoriumi užbaigsime redaguoti
 posėdžio protokolą ir pateiksime susipažinimui.
 
 Dėkoju dalyviams ir linkiu įdomių atradimų su VU RK 2024 metais!
-
-Domantas Petrauskas LY1JA
