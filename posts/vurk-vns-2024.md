@@ -7,7 +7,7 @@ twitter: "@domnantas"
 layout: post
 ---
 
-2024 m, vasario 25 d., įvyko Vilniaus universiteto radijo klubo 
+2024 m. vasario 25 d. įvyko Vilniaus universiteto radijo klubo 
 visuotinis narių susirinkimas. Susirinkime dalyvavo 11 klubo narių. 
 
 ![Domantas LY1JA, VU RK VNS](/vns-2024/vns1.jpg)
