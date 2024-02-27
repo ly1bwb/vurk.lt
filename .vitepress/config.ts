@@ -68,13 +68,6 @@ export default defineConfig({
 		[
 			"meta",
 			{
-				property: "og:url",
-				content: "https://vurk.lt",
-			},
-		],
-		[
-			"meta",
-			{
 				property: "og:type",
 				content: "website",
 			},
