@@ -49,6 +49,8 @@ layout: prose
 
 Norinčius prisijungti į klubą kviečiame užpildyti prašymą ir atsiųsti į [ly1bwb@vurk.lt](mailto:ly1bwb@vurk.lt)
 
+Klubo nario mokestis – 10€/mėn. Studentams, pensininkams ir moksleiviams – 5€/mėn.
+
 [Prašymo blankas](/Prasymas-stoti-VURK.doc)
 
 Laiške prašome prisistatyti, pasidalinti kokia veikla domina, ir kodėl norite prisijungti prie VU radijo klubo.
