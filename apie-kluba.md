@@ -21,31 +21,6 @@ kitoje pasaulio pusėje. Parašykite mums į [ly1bwb@vurk.lt](mailto:ly1bwb@vurk
 
 Jeigu sudomino klubo veikla, kviečiame [užpildyti prašymą prisijungti prie klubo](/nariai#prasymas-stoti-i-kluba).
 
-## Klubo įranga (atnaujinta 2024m. kovo mėn.)
-
-- Trumpųjų bangų stotis
-  - Kenwood TS-590D transiveris
-  - microHAM microKEYER II valdiklis
-  - UR5CDX morzės raktas
-  - Yaesu G-1000 antenos rotatorius
-- Ultratrumpųjų bangų stotis
-  - Icom IC-9700 transiveris
-  - Yaesu G-5500 antenos rotatorius
-- QO-100 stotis
-  - ? SDR
-- APRS retransliatorius klubo būstinėje
-- APRS retransliatorius Kryžkalnyje
-- ADS-B 1090 MHz imtuvas
-- LY1XD skaitmeninis retransliatorius
-- Portabili įranga
-  - 12m. ilgio Spiderbeam stiebas
-  - 10/15/20m ir 40/80m Hallo Field Day dipoliai
-- Antenos
-  - Antenos iškeltos ant 12 a. pastato stogo
-  - 10/15/20m Yagi antena su rotatoriumi 11m. aukščio bokšte
-  - 2m/70cm Yagi antena su Az/El rotatoriumi ant 5m. aukščio stiebo
-  - ?m. skersmens parabolinė antena nukreipta į QO-100 palydovą
-
 ## Rekvizitai
 
 **Asociacija „Vilniaus universiteto radijo klubas”**
