@@ -34,6 +34,7 @@ layout: prose
 1. Giedrius Graževičius LY7GG (nuo 2023 m.)
 1. Juozas Valenčius LY4NM (nuo 2023 m.)
 1. Ernestas Kovalenko LY8LK (nuo 2024 m.)
+1. Karolis Viduto LY6BM (nuo 2024 m.)
 
 ## Buvę nariai
 
@@ -41,9 +42,9 @@ layout: prose
 1. Martynas Baltrūnas LY1BGP (2011 m. – 2015 m.)
 1. Arvydas Dauderys LY1LI (2015 m. – 2016 m.)
 1. Marijus Bernotas LY1SM (2018 m.)
+1. Karolis Martinaitis LY2MK (2016 m. – 2020 m.)
 1. Martynas Staniulionis LY1MS (2018 m. – 2021 m.)
 1. Gedas Kučinskas LY5GK (2019 m. – 2021 m.)
-1. Karolis Martinaitis LY2MK (2016 m. – 2020 m.)
 
 ## Prašymas stoti į klubą
 
