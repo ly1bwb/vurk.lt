@@ -1,4 +1,4 @@
-# [vurk.lt](vurk.lt)
+# [vurk.lt](https://vurk.lt)
 
 Vilniaus universiteto radijo klubo (VURK) interneto svetainė.
 
