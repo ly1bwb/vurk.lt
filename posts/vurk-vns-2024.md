@@ -60,7 +60,6 @@ Iš viso numatoma išlaidų - 2975 eurai. Palyginimui, 2023 m. biudžete buvo
 numatyta 2860 eurų išlaidų (su balsavimais el. paštu - 3860 eurų), o faktinės 
 išlaidos buvo 4293 eurai.
 
-Per artimiausias savaites kartu su posėdžio sekretoriumi užbaigsime redaguoti
-posėdžio protokolą ir pateiksime susipažinimui.
+Su protokolu galite susipažinti čia: [VURK-VS-14(2024).pdf](</vns-2024/VURK-VS-14(2024).pdf>)
 
 Dėkoju dalyviams ir linkiu įdomių atradimų su VU RK 2024 metais!
