@@ -12,6 +12,7 @@ const navigationItems = {
 	"/": "Naujienos",
 	"/nariai": "Nariai",
 	"/apie-kluba": "Apie klubą",
+	"/rekvizitai": "Rekvizitai",
 	"/istorija": "Istorija",
 };
 </script>
