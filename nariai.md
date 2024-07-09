@@ -35,6 +35,7 @@ layout: prose
 1. Juozas Valenčius LY4NM (nuo 2023 m.)
 1. Ernestas Kovalenko LY8LK (nuo 2024 m.)
 1. Karolis Viduto LY6BM (nuo 2024 m.)
+1. Ričardas Domarkas LY1RD (nuo 2024 m.)
 
 ## Buvę nariai
 
