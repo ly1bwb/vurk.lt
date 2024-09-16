@@ -72,6 +72,6 @@ Sąskrydžio metu [rinkome paramą](https://www.aukok.lt/fr/fc3bc0acd5274a29842e
 
 ![](/assets/saskrydis-2024/parama.png)
 
-Šiais metais apsilankė nemažai radijo mėgėjų, kurie nėra mūsų klubo nariai. Ačiū dalyvavusiems Romui LY2RRC, Broniui LY5O, Mindaugui LY4L, Raimiui LY5GT, Audriui LY1LU, Zakhar HB9ILP bei kitiems!
+Šiais metais apsilankė nemažai radijo mėgėjų, kurie nėra mūsų klubo nariai. Ačiū dalyvavusiems Romui LY2RRC, Broniui LY5O, Mindaugui LY4L, Raimiui LY5GT, Audriui LY1LU, Zakhar HB9ILP bei kitiems! Lauksime sugrįžtant kitais metais!
 
 ![](/assets/saskrydis-2024/veliava.jpg)
