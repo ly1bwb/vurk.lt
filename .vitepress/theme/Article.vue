@@ -39,7 +39,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1]);
 				class="divide-y divide-gray-200 dark:divide-slate-200/5 xl:pb-0 xl:col-span-3 xl:row-span-2"
 			>
 				<Content
-					class="prose prose-slate dark:prose-invert lg:prose-xl prose-img:rounded-xl prose-video:rounded-xl prose-img:w-full max-w-none pt-10 pb-8"
+					class="prose prose-slate dark:prose-invert lg:prose-xl prose-img:rounded-xl prose-video:rounded-xl prose-img:w-full max-w-none pt-4 pb-8"
 				/>
 			</div>
 
