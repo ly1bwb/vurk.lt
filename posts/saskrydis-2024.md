@@ -4,6 +4,7 @@ date: 2024-09-14
 author: Domantas Petrauskas LY1JA
 gravatar: ly1ja@vurk.lt
 twitter: "@domnantas"
+image: /saskrydis-2024/drone-2.jpg
 layout: post
 ---
 
