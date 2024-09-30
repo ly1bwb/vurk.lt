@@ -8,6 +8,8 @@ layout: prose
 
 Juridinio asmens kodas: 302679115
 
+Adresas: S. Žukausko g. 26-43, Vilnius
+
 B/S: LT36 7044 0600 0774 0341 (AB SEB bankas)
 
 ### Buveinės adresas
