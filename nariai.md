@@ -23,7 +23,6 @@ layout: prose
 1. Vilius Bilinkevičius LY3FF (nuo 2019 m.)
 1. Nerijus Bendžiūnas LY2DC (nuo 2020 m.)
 1. Marijus Ravickas (nuo 2020 m.)
-1. Žygimantas Augilius LY4ZA (nuo 2021 m.)
 1. Audrius Blaževičius LY4AU (nuo 2021 m.)
 1. Arūnas Maršalka LY4FOX (nuo 2022 m.)
 1. Audrius Baranauskas LY4ET (nuo 2022 m.)
@@ -48,6 +47,7 @@ layout: prose
 1. Karolis Martinaitis LY2MK (2016 m. – 2020 m.)
 1. Martynas Staniulionis LY1MS (2018 m. – 2021 m.)
 1. Gedas Kučinskas LY5GK (2019 m. – 2021 m.)
+1. Žygimantas Augilius LY4ZA (2021 m. - 2022 m.)
 
 ## Prašymas stoti į klubą
 
