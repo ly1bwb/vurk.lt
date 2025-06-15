@@ -32,6 +32,7 @@ layout: prose
 1. Ričardas Domarkas LY1RD (nuo 2024 m.)
 1. Marc Ziv LY1JLO (nuo 2024 m.)
 1. Motiejus Vincerževskis LY4MO (nuo 2025 m.)
+1. Gustas Kazulėnas LY7VI  (nuo 2025 m.)
 
 ## Buvę nariai
 
