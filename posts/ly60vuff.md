@@ -24,3 +24,9 @@ operatoriaus kėdę.
 ![Simonas LY2EN prisistato svečiams Morzės kodu](/assets/ly60vuff/ly60vuff_3.jpg)
 
 ![Simonas LY2EN rodo kaip užmezgamas trumpų bangų ryšys](/assets/ly60vuff/ly60vuff_2.jpg)
+
+Nuorodos į renginį spaudoje:
+
+* [https://sc.bns.lt/view/item/minedamas-sukakti-vu-fizikos-fakultetas-radijo-bangomis-skleis-zinia-visam-pasauliui-513611](https://sc.bns.lt/view/item/minedamas-sukakti-vu-fizikos-fakultetas-radijo-bangomis-skleis-zinia-visam-pasauliui-513611)
+* [https://www.ff.vu.lt/mokslo-ir-studiju-naujienos/3125-sauletekyje-minint-vu-fizikos-fakulteto-gimtadieni-veike-speciali-radijo-stotis](https://www.ff.vu.lt/mokslo-ir-studiju-naujienos/3125-sauletekyje-minint-vu-fizikos-fakulteto-gimtadieni-veike-speciali-radijo-stotis)
+* [https://www.facebook.com/FizikosFakultetasVU/posts/pfbid0jVJKHjKU7KEx7K6Y6RKbmq5kbLhN9X79dJSFdpm2C5KiHKhVd6YmLDy1cyHPK4jEl](https://www.facebook.com/FizikosFakultetasVU/posts/pfbid0jVJKHjKU7KEx7K6Y6RKbmq5kbLhN9X79dJSFdpm2C5KiHKhVd6YmLDy1cyHPK4jEl)
