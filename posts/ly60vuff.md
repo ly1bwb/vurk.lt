@@ -18,3 +18,9 @@ Trumposios radijo bangos šaukiniu LY60VUFF sklido nuo fakulteto stogo, skleisda
 Rugsėjo 5–6 dienomis Fizikos fakulteto gimtadienio proga Saulėtekyje radijo ryšius su visu pasauliu mezgė ne tik radijo entuziastai, bet ir 
 fakulteto ir universiteto bendruomenės nariai, narės bei smalsaujantys praeiviai, praeivės – visi jie galėjo bent trumpam pasimatuoti 
 operatoriaus kėdę.
+
+![Nerijus LY5QF atlieka trumpų bangų radijo ryšį](/assets/ly60vuff/ly60vuff_1.jpg)
+
+![Simonas LY2EN prisistato svečiams Morzės kodu](/assets/ly60vuff/ly60vuff_3.jpg)
+
+![Simonas LY2EN rodo kaip užmezgamas trumpų bangų ryšys](/assets/ly60vuff/ly60vuff_2.jpg)
