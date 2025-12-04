@@ -20,7 +20,7 @@ layout: prose
 1. Lukas Kundelis LY1PG (nuo 2019 m.)
 1. Rolandas Naujikas LY0NAS (nuo 2019 m.)
 1. Vilius Bilinkevičius LY3FF (nuo 2019 m.)
-1. Nerijus Bendžiūnas LY2DC (nuo 2020 m.)
+1. LY2DC (nuo 2020 m.)
 1. Marijus Ravickas (nuo 2020 m.)
 1. Audrius Blaževičius LY4AU (nuo 2021 m.)
 1. Arūnas Maršalka LY4FOX (nuo 2022 m.)
@@ -28,7 +28,6 @@ layout: prose
 1. Loreta Tarvydienė LY4LT (nuo 2023 m.)
 1. Giedrius Graževičius LY7GG (nuo 2023 m.)
 1. Juozas Valenčius LY4NM (nuo 2023 m.)
-1. Karolis Viduto LY6BM (nuo 2024 m.)
 1. Ričardas Domarkas LY1RD (nuo 2024 m.)
 1. Marc Ziv LY1JLO (nuo 2024 m.)
 1. Motiejus Vincerževskis LY4MO (nuo 2025 m.)
@@ -50,6 +49,7 @@ layout: prose
 1. Laurynas Kuodis (2022 m. - 2025 m.)
 1. Paulius Rimeikis LY3LB (2023 m. - 2025 m.)
 1. Ernestas Kovalenko LY8LK (2024 m. - 2025 m.)
+1. Karolis Viduto LY6BM (2024 m. - 2025 m.)
 
 ## Prašymas stoti į klubą
 
