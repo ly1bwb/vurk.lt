@@ -8,10 +8,10 @@ layout: prose
 
 ## Narių sąrašas
 
-1. dr. Simonas Kareiva LY2EN (iždininkas, narys nuo 2011 m.)
+1. dr. Simonas Kareiva LY2EN (narys nuo 2011 m.)
 1. Laurynas Mačiulis LY1LM (garbės narys nuo 2014 m.)
 1. Laimonas Januška LY1WS (nuo 2014 m.)
-1. Linas Dragūnas LY5AT (revizorius, narys nuo 2015 m.)
+1. Linas Dragūnas LY5AT (narys nuo 2015 m.)
 1. Barbora Kačinskaitė LY1KB (narė nuo 2017 m.)
 1. Domantas Vasiliauskas LY1JA (prezidentas, narys nuo 2017 m.)
 1. Haroldas Lapinskas LY5IM (narys nuo 2018 m.)
@@ -22,17 +22,18 @@ layout: prose
 1. Vilius Bilinkevičius LY3FF (nuo 2019 m.)
 1. LY2DC (nuo 2020 m.)
 1. Marijus Ravickas (nuo 2020 m.)
-1. Audrius Blaževičius LY4AU (nuo 2021 m.)
+1. Audrius Blaževičius LY4AU (revizorius, narys nuo 2021 m.)
 1. Arūnas Maršalka LY4FOX (nuo 2022 m.)
 1. Ernest Stepanov LY3PH (nuo 2023 m.)
 1. Loreta Tarvydienė LY4LT (nuo 2023 m.)
-1. Giedrius Graževičius LY7GG (nuo 2023 m.)
+1. Giedrius Graževičius LY7GG (iždininkas, narys nuo 2023 m.)
 1. Juozas Valenčius LY4NM (nuo 2023 m.)
 1. Ričardas Domarkas LY1RD (nuo 2024 m.)
 1. Marc Ziv LY1JLO (nuo 2024 m.)
 1. Motiejus Vincerževskis LY4MO (nuo 2025 m.)
 1. Gustas Kazulėnas LY7VI  (nuo 2025 m.)
 1. Vytautas Leipus (nuo 2025 m.)
+1. Nojus Žėkas LY8JA (nuo 2025 m.)
 
 ## Buvę nariai
 
