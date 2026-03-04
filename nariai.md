@@ -54,10 +54,12 @@ layout: prose
 
 ## Prašymas stoti į klubą
 
-Norinčius prisijungti į klubą kviečiame užpildyti prašymą ir atsiųsti į [ly1bwb@vurk.lt](mailto:ly1bwb@vurk.lt)
+Į Vilniaus universiteto radijo klubą priimame visus susidomėjusius mūsų veikla. Leidimas užsiimti radijo mėgėjų veikla (licencija) nėra būtinas prieš prisijungiant – mūsų nariai gali padėti jums pasiruošti egzaminui.
 
 Klubo nario mokestis – 10€/mėn. Studentams, pensininkams ir moksleiviams – 5€/mėn.
 
-[Prašymo blankas](/Prasymas-stoti-VURK.doc)
+[Prašymo blankas](/Prasymas-stoti-VURK.docx). Užpildytą prašymą atsiųskite į [ly1bwb@vurk.lt](mailto:ly1bwb@vurk.lt) Laiške prašome prisistatyti, pasidalinti kokia veikla domina, ir kodėl norite prisijungti prie VU radijo klubo.
 
-Laiške prašome prisistatyti, pasidalinti kokia veikla domina, ir kodėl norite prisijungti prie VU radijo klubo.
+[Klubo įstatai](https://drive.google.com/file/d/1oWcOVp3X_ybnRxMwzEnRUFfTUuTjC6Iq/view)
+
+[Klubo vidaus taisyklės](https://docs.google.com/document/d/1WjAP0hhRajjQPRFjve9nBvMBgZOXhq43olpZ6DiirM4/view)
