@@ -13,6 +13,8 @@ Nojus Žėkas LY8JA.
 
 Kviečiame susipažinti su trumpa klubo veiklos ataskaitos versija.
 
+![Fram2Ham](/vns-2026/fram2.png)
+
 ---
 
 Praėjusiais metais į klubą prisijungė 4 nariai – Motiejus Vincerževskis LY4MO, Gustas
@@ -40,11 +42,15 @@ Kenwood. Modernesnį transiverį patogiau valdyti tiek sėdint prie jo, tiek
 nuotoliniu būdu. Taip pat jo ekrane galima matyti radijo spektro “krioklį”, 
 kuris leidžia lengviau rasti korespondentus.
 
+![LY60VUFF](/assets/vns-2026/ly60vuff.png)
+
 Kaip ir kiekvienais metais, klubas organizavo keletą ekskursijų į
 būstinę. Kartu su LRMD aplankėme CANSAT varžybas Molėtų aerodrome. Klubo nariai
 taip pat prisidėjo prie Vilniaus universiteto fizikos fakulteto 60
 metų sukakties paminėjimo – LY60VUFF. Dėkoju klubo nariams
 už klubo veiklos populiarinimą!
+
+![Saskrydis](/assets/vns-2026/saskrydis.png)
 
 Rudens pradžioje klubo nariai keliavo į gamtą ir dalyvavo Field
 Day varžybose prie Skaisčio ežero. Per naktį pavyko padaryti 277 QSO, smagiai praleidome
