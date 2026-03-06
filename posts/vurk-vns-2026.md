@@ -61,5 +61,7 @@ dalį skirto biudžeto. Na ir žinoma, Šv. Kalėdų proga susirinkome pasivaiš
 picomis. Ačiū Lukui LY1PG, kuris parėmė šią iniciatyvą.
 
 Linkiu nuostabių metų ir gero sklidimo!
+
 VU RK prezidentas
+
 Domantas Vasiliauskas LY1JA
