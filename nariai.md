@@ -34,6 +34,7 @@ layout: prose
 1. Gustas Kazulėnas LY7VI  (nuo 2025 m.)
 1. Vytautas Leipus (nuo 2025 m.)
 1. Nojus Žėkas LY8JA (nuo 2025 m.)
+1. Karolis Daniulis (nuo 2026 m.)
 
 ## Buvę nariai
 
