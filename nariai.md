@@ -20,7 +20,6 @@ layout: prose
 1. Lukas Kundelis LY1PG (nuo 2019 m.)
 1. Rolandas Naujikas LY0NAS (nuo 2019 m.)
 1. Vilius Bilinkevičius LY3FF (nuo 2019 m.)
-1. LY2DC (nuo 2020 m.)
 1. Marijus Ravickas (nuo 2020 m.)
 1. Audrius Blaževičius LY4AU (revizorius, narys nuo 2021 m.)
 1. Arūnas Maršalka LY4FOX (nuo 2022 m.)
