@@ -34,6 +34,7 @@ layout: prose
 1. Vytautas Leipus (nuo 2025 m.)
 1. Nojus Žėkas LY8JA (nuo 2025 m.)
 1. Karolis Daniulis (nuo 2026 m.)
+1. Paulius Rimeikis LY3LB (nuo 2026 m.)
 
 ## Buvę nariai
 
@@ -48,7 +49,6 @@ layout: prose
 1. Povilas Šėporaitis LY1FDX (2019 m. - 2025 m.)
 1. Audrius Baranauskas LY4ET (2022 m. - 2025 m.)
 1. Laurynas Kuodis (2022 m. - 2025 m.)
-1. Paulius Rimeikis LY3LB (2023 m. - 2025 m.)
 1. Ernestas Kovalenko LY8LK (2024 m. - 2025 m.)
 1. Karolis Viduto LY6BM (2024 m. - 2025 m.)
 
